@@ -1,0 +1,20 @@
+export const NUTRITION_DATA = {
+    apple: { calories: 52, protein: 0.3, carbs: 14, fat: 0.2 },
+    banana: { calories: 89, protein: 1.1, carbs: 23, fat: 0.3 },
+    orange: { calories: 47, protein: 0.9, carbs: 12, fat: 0.1 },
+    lettuce: { calories: 15, protein: 1.4, carbs: 2.9, fat: 0.2 },
+    spinach: { calories: 23, protein: 2.9, carbs: 3.6, fat: 0.4 },
+    tomato: { calories: 18, protein: 0.9, carbs: 3.9, fat: 0.2 },
+    carrot: { calories: 41, protein: 0.9, carbs: 10, fat: 0.2 },
+    broccoli: { calories: 34, protein: 2.8, carbs: 7, fat: 0.4 },
+    chicken: { calories: 239, protein: 27, carbs: 0, fat: 14 },
+    beef: { calories: 250, protein: 26, carbs: 0, fat: 15 },
+    salmon: { calories: 208, protein: 20, carbs: 0, fat: 13 },
+    milk: { calories: 61, protein: 3.2, carbs: 4.8, fat: 3.3 },
+    cheese: { calories: 402, protein: 25, carbs: 1.3, fat: 33 },
+    bread: { calories: 265, protein: 9, carbs: 49, fat: 3.2 },
+    rice: { calories: 130, protein: 2.7, carbs: 28, fat: 0.3 },
+    pasta: { calories: 131, protein: 5, carbs: 25, fat: 1.1 },
+    egg: { calories: 155, protein: 13, carbs: 1.1, fat: 11 },
+    yogurt: { calories: 59, protein: 10, carbs: 3.6, fat: 0.4 }
+  };
